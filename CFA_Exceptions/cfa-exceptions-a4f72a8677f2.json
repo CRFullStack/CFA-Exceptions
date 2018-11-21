@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "cfa-exceptions",
+  "private_key_id": "a4f72a8677f28919d216799ec4bc799f3a223017",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCqbq0iP82RHX8Z\nj6hq/qbT8UWtixQkfgyAO3N631kaJB3Dv8IAvIejqEYJc6HDm2TdsulrZYpeQlmU\nQoLcOjBw9rwsnXf0wm0GWzFxYpGJ/JTQa+kXackKuiaJZINucPfNp0Hs43yX4R4K\nT+kX3/mE3JQnO1Vaq0UqZSjNQA8c860D7XB5TnP1LIPXR/L5ADi0OCbxmM+B+IfH\nA143hS9z4lHPmz7O/UdB0xd5RM9RbHFMzBVgPcCXmKIHm7rycdpcLB2JgekTh3iY\nDqUeaWkvDVOdjooCGJJV6zyvdP4Ud4lAtP2X+Mcmn4zrzDVyBTi47HvIXKgIHjkS\nbAWYWg8zAgMBAAECggEAUOSLJJBn/5Kiev1mkLIheMMxsTcr7k4tnMea/hz4a6Hs\nxrZDXJofPxxlcaMCipc8/sUmaSUe0bJoVihjeCfeSh+yHPL4tqF5oeSyyQBh176c\n23f8gHJjS8Yi+F9OyqKv21qhvdATmPruiTJ4ji5ufhM79osA7jIQeBjfjtvy0GhI\nWd6gbWT+2vcko3gty2SvmqAxgDw4KIHBP+d8PPEByvRJdJX/RD2Ej2uF+mRcnrts\n3lasZE4e+YlMtZpVY9wnWU6kojY+bPh6qcmx7MShH6jur/dSbwkEfiEtmcgyo7jm\nfSbPdYPl7X3ZR1OG2VqsTanKZnqSj8WNslkyo+hIgQKBgQDr9QXq/A5kgwwCPOrG\nbEiXrkc/8EmZV1/3BnhSmSExsrw4stLuI0a+pIP6+Emo7apVs6fD3pQSjmUmzGXT\nRqgRmdnZik4YW3aPPJou3GTQc/7Fwbd4O6LkFe2j8vzsdJB21idVc7Y/raMr6MbK\nrHlRIcMhCh+PO3XINf9r7O/VIQKBgQC46Mqyo3EbzrawbRvu6TvxBhMJ/sbjTTH9\nW2QuuVuoEJmPgDzFDm7HUZwIfUZYv3Bv9PVrE7koc11nD4BHYirFq0cSypbqMFjg\nhB/Psma28ta8ZlmCq55CEQAeAPGSbG+8ftI5N08okfUQfzyr3PTSkYgQW93aBM0z\nOD8Qb0vF0wKBgQCFKNT7JN4WeSI4zRoNeqSI/TB2c+uFHxsoND2JF6P1ARJZyQli\nnQPaqMtWwfIH5IBBN08RKbZUtol9GNLKJdDJhhK8QuIJuuwwr5mvom8+eIeqIMWi\nk708jOd8o6963dl9RyQRhGiwjRRNvmMZk7YvRCdzqNvgoES7BUYtKRy8IQKBgDKb\nvEaSRzXWKNg2tKt5+GbqQ7G7opG5ohH2vn+vSa/BA1ZsQbWpUpaI9oy4RNWrZ8ms\noLLyzf2NPaYkbvaanpxFWYmCGzXzj4+7eb1t1YEDC9S6qosCD6mDX6XWmkd6GEbd\n6wmv4qF2+TzPpjpfmj47iKL5kcnHAKahIVmNLI7zAoGBAL1XHEivKxat24PDDTla\nY9F0p/elMu/XrqpGAyA15L4tZHiX0Do+XT/UgTol9ofvZVQ04jvW081eNky+dW2Q\ndny77sIlG6riwevzISbyKlmNFoIN9nkiYDzYZ23CuyFcGH8hkq+4az/lIFnRm4TO\nvOzkDDhM+Xn7IUFcEMJzc+XV\n-----END PRIVATE KEY-----\n",
+  "client_email": "cfa-exceptions@cfa-exceptions.iam.gserviceaccount.com",
+  "client_id": "102408476069524782828",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cfa-exceptions%40cfa-exceptions.iam.gserviceaccount.com"
+}
